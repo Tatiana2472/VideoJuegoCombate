@@ -21,6 +21,7 @@ Desarrollado en **NetBeans (Ant)**, usando **Programación Orientada a Objetos**
   - `modelo` → Clases principales del juego.
   - `controlador` → Lógica de combate y menús.
   - `basedatos` → Conexión y operaciones CRUD con JDBC.
+  - `dao` → Clases DAO para realizar operaciones CRUD sobre las tablas (`JugadorDAO`, `PersonajeDAO`, etc.).
   - `principal` → Clase `Main` para iniciar el juego.
 
 ## 📂 Requisitos
